@@ -41,7 +41,8 @@ Ensure that the appropriate file paths are updated in the notebooks before runni
 
 ## License
 
-This project is released under the MIT License. Feel free to use, modify, and share.
+This repository's code is licensed under the MIT License. You are free to use, modify, and distribute this code as permitted by the terms of the MIT License.
+Please note that this project relies on third-party libraries and models (e.g., PyTorch, transformers), which may have their own licensing terms. By using this repository, you agree to comply with the licenses of any dependencies or models included or referenced in this project.
 
 ## Citation
 
