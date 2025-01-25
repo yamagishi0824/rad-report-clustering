@@ -47,7 +47,7 @@ Please note that this project relies on third-party libraries and models (e.g., 
 ## Citation
 
 ```
-@article{Yamagishi2025,
+@article{yamagishi2025llmcl,
   title     = {Large Language Model Approach for Zero-Shot Information Extraction and Clustering of Japanese Radiology Reports: Algorithm Development and Validation},
   author    = {Yamagishi, Y and Nakamura, Y and Hanaoka, S and Abe, O},
   journal   = {JMIR Cancer},
